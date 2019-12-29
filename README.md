@@ -1,6 +1,6 @@
 # flightsData
 
-Welcome to my inspection and analysis of flights. This is in response to the third project (module four) being assigned, where we were tasked with completeing a regression on some type of data. 
+Welcome to my inspection and analysis of flights. This is in response to the third project (module four) being assigned, where we were tasked with completeing a regression on some type of data. This is an individual project.
 
 ### Data
 The data that was used was from Kaggle, surprise surprise. https://www.kaggle.com/usdot/flight-delays
